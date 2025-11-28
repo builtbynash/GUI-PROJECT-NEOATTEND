@@ -1,4 +1,4 @@
-# GUI-PROJECT-NEOATTEND[README (1).md](https://github.com/user-attachments/files/23823876/README.1.md)
+# GUI-PROJECT-NEOATTEND
 # **NeoAttend**
 
 A Smart Facial Recognition Attendance System
